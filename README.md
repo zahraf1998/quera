@@ -1,2 +1,2 @@
-# quera-frontend
+# quera
 HTML , CSS , JS practices
