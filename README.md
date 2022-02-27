@@ -1,2 +1,2 @@
 # quera
-HTML , CSS , JS practices
+HTML , CSS , JS practice
